@@ -25,3 +25,20 @@ print('Donald'+' '+"Trumph")
 #split function
 # it will split the function whatever you specify
 print(fname.split('a'))
+
+Output:
+
+Mahesh
+Mahesh's first class
+My name is "Mahesh"
+A@10
+<class 'str'>
+123-456-789
+my name is "mahesh"
+False
+True
+8
+DonaldTrump
+Donaltrump
+Donald Trumph
+['Don', 'ld']
