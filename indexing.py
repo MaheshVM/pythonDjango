@@ -28,3 +28,12 @@ print(string1[-11:-8:1])     #Rag
 print(string1[-9:-12:-1])       #print gaR
 #step value tells the direction of moeement
 print(string1[-9:-11:-2])
+
+h
+h
+e
+e
+Rag
+Rag
+gaR
+g
