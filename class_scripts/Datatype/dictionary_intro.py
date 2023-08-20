@@ -1,3 +1,23 @@
+
+''' dictionary:
+	it is a 2 dimeniontional data set
+	think of a row & column
+	- deals with 2 dimensional data type
+	- is a collection of key value pair.
+	- collection of heterogeneous data
+	- it is ordered
+	-has key value pair
+	- in dictionary we call them items key:value is kind of pairs
+	- use curly bracket
+	{1:2, 3:4, 5:6}
+	key: value, key:value, key:value
+	- do use items(because it is 2 dimenional)
+	- it wont give [0] wont indicate position
+	- keys are immutable objects- numbers, strings, tuple, frozenset
+	- values can be any value(list,sets, tuple)
+	- keys can not be duplicate
+	- using dict() 	we can create dictionary
+'''	
 car={
     "brand":"audi",
     'model':'q5',
