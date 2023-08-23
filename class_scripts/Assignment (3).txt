@@ -1,0 +1,11 @@
+P.S : DO NOT DO GOOGLE for answers.
+1. Practice inbuilt string functions. 
+2. Practice inbuilt list functions
+3. Define 2 tuples and then check what happens when u add them so tupl1 + tupl2 
+4. Multiply a tuple with 2. tupl1 * 2
+5. create 2 dict and try to concatenate them. 
+6. Find the largest no in a given list. eg listx=[1,2,3,4]. output - 4 is the largest
+7. Find the sum of given numbers in a set. eg seteg={1,2,3,4}. output - 10
+8. take a range 1-100....then find the even nos and add 50 to them and put them in a list. o/p evennolist = [52,54,56,......] and also find the odd nos and add 25 to them and print them in a list. o/p offnolist= [26,28,....]
+9. find the count of vowels, consonants, digits, and special char in a given string. use input() to get the string. abas%6^34andj
+

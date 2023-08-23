@@ -1,0 +1,13 @@
+if 
+else
+elif
+
+for
+while
+
+break
+continue
+pass - only in py 
+no switch in py 
+
+

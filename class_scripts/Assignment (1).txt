@@ -1,0 +1,6 @@
+P.S : DO NOT DO GOOGLE for answers.
+1. Practice inbuilt string functions. 
+2. Practice inbuilt list functions
+3. Define 2 tuples and then check what happens when u add them so tupl1 + tupl2 
+4. Multiply a tuple with 2. tupl1 * 2
+5. 
