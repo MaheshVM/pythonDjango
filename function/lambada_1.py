@@ -3,6 +3,17 @@
 
 # output:
 # (6, -2, 8)
+'''
+Recursive function
+function will call by itself
+based on condition must be terminated
+
+lambada mean anonymous
+it is a non named function, but mentioned with keyword "lambada"
+lambada can take any number of arguments. but must have only one expresssion
+syntax:
+  lambada parameter_list: expression
+'''
 
 def myfunc(n):
   return lambda a : a * n
