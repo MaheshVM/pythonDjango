@@ -14,6 +14,10 @@ lambada can take any number of arguments. but must have only one expresssion
 syntax:
   lambada parameter_list: expression
 '''
+adding_two_nos=lambda a,b:a+b
+
+print(adding_two_nos)   #<function <lambda> at 0x000002069C8E6160>
+print(adding_two_nos(4,5))    #9
 
 def myfunc(n):
   return lambda a : a * n
