@@ -18,6 +18,7 @@ adding_two_nos=lambda a,b:a+b
 
 print(adding_two_nos)   #<function <lambda> at 0x000002069C8E6160>
 print(adding_two_nos(4,5))    #9
+# in above it shows that variable adding_two_nos points to the lambda function address #<function <lambda> at 0x000002069C8E6160>
 
 def myfunc(n):
   return lambda a : a * n
