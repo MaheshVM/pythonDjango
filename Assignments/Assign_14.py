@@ -17,9 +17,10 @@ try:
         print(output)
         for word in output:
             if "error" in word:
-                 print("Match found")
-            else:
-                 print("No error message in the file")
+                 print(word)
+                 #print("Match found")
+            # else:
+            #      print("No error message in the file")
   
 except Exception as e:
     print("The file does not exist",e)

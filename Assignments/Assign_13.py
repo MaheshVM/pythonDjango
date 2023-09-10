@@ -7,7 +7,7 @@ import string
 import random
 alpha_dig_punc=string.ascii_letters+string.digits+string.punctuation
 password=''
-for x in range(0,7):
+for x in range(0,8):
     ran=random.choice(alpha_dig_punc)
     password+=ran
 print(password)
