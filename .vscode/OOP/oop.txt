@@ -1,0 +1,30 @@
+python is 
+- oop lang
+-scripting lang
+-procedure oriented, has functions
+4 properties of oop
+inheritance
+poymorphism
+abstraction
+encapsulation
+    abstraction & encapsulation less importance, not used much
+    inheritance & polymorphism used most
+has lots of benifits
+
+Class , object and reference    -python operations
+
+class is kind of blueprint
+
+every class has "__doc__" string
+it is the first statement in class, it can be used in methid function
+- it descibes the class in short
+
+Syntax of class
+try to keep first letter of the class nma euppercase
+
+class <className>:
+
+class First:
+    '''This is the doc string'''
+
+if you hover on class name you can see the doc string, thats how it will show the class
