@@ -1,3 +1,10 @@
+'''
+3 ways to define class
+1. class Class_Naame:       ex: class Emploee:
+2. class Class_Name():      ex: class Employee():
+3. class Class_Name(object):    ex: class Employee(object):, internally called object class
+'''
+
 class First:
     ''' This is a doc string for class'''
     def __init__(self):

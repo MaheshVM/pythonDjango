@@ -28,3 +28,10 @@ class First:
     '''This is the doc string'''
 
 if you hover on class name you can see the doc string, thats how it will show the class
+-----------------------------------------------------------------------------------------------------
+
+Constructor:
+
+in built function already available is:
+__init__(self)
+object creation is nothing but allocaion of memory to the class
