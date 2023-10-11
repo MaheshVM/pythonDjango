@@ -29,6 +29,26 @@ correspondingly there are in c++
 2. parameterized constructor- with more paarmeters with self
 
 there should not be any print statements inside the __init__ function
+class can be created with 
+class Person:
+
+or
+
+class Person():
+
+or
+
+class Person(object)
+    any one can be used
+
+with his statement always init is available and creates object memory whenever you create 
+
+object is parent of all the classes. all int,float are in the form of class and object.
+
+there will be internal init will be called if not there or not in class, as good as init will be in "object" parent class
+
+constructor overloading is not available in python.
+2 __init__ is no any usefull
 '''
 # class Employee():
 #     ''' constructor implementation'''
@@ -67,8 +87,8 @@ class Employee(object):                 # see how we creatd because all classes 
 
 p=Employee()
 
-output:
-calling constructor2
+# output:
+# calling constructor2
 
 
 
