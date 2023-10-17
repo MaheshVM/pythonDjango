@@ -1,0 +1,27 @@
+4 Basic concepts of oops are
+polymorphism
+inheritance
+encapsulation
+abstraction
+
+Polymorphism:
+    Overloading:    constructor, method and operator
+    overriding:     constructor, method and operator
+
+Overloading:
+    same method and/or different argument types or numbers
+
+ex:
+
+def add(a,b):
+    return a+b
+
+def add(a,b,c):
+    return a+b+c
+
+Not supported by python, because python interpretor takes latest one def add(a,b,c):    
+since it is last and greatest here.
+
+overriding in Inhertiance
+Overloading : Polymorphism
+
