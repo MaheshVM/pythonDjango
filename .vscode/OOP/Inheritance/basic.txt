@@ -1,0 +1,16 @@
+Its reusability of code 
+
+Parent class and child class
+    Parent - is a base class
+    child class - inheriting from parent class, also called derived class
+
+main class in python inherit from "object" class
+
+class class_name(object):
+
+if empty () then default will inherit from object class
+
+class Parent():
+
+
+class Child(Parent):        derived from Parent base class
