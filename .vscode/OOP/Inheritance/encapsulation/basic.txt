@@ -1,0 +1,13 @@
+describes the wrapping of data and method within unit
+basically data can be modified within the same class but can not outside the class
+similar like private, public an protected
+in python   _ no public and protected.
+all will be private variables and private methods.
+
+we can not modify the data outside.
+usually used inside the os and sys module
+
+double underscore is private 
+__a = private variable, with 2 underscore
+
+os_exit(0)      -> private method

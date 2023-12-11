@@ -1,0 +1,18 @@
+All the data in python will be in private heap
+
+all objects like lists,tuples,sets, all are stored permanently in heap memory
+who does this allocation - will be done by python memory manager (PVM)
+1. role is to give autority for allocation of the memory
+2.Raw memory allocator- will deal with "actual" physical allocation of the memory
+
+kind of malloc in c
+
+c is good in memory management
+
+calloc and realloc and free kind of c in python
+
+Stack memory    -for loop , the iteration variable
+
+PyMem_api       - to call memory management operation in python
+
+must read PEP

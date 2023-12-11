@@ -1,0 +1,10 @@
+describes the "data" to be wrapped.
+basically used to modify the data within the class, but not outside the class.
+hides the data.
+in python : no public and protected data
+
+IN python: Has private variable and private method.
+
+__a         #any variable with 2 underscore before it becomes private variable
+
+os_exit(0)      #private method
