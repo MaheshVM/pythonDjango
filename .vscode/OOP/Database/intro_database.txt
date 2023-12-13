@@ -1,0 +1,42 @@
+if want to store data is called database
+file handling will limit the size of the data, if huge then go for database
+
+used for Data storage and data can be : numerical,image, video..etc
+
+there are 3 types of data base
+
+1. Relational database
+2. Nosql database
+3. NewSql database
+
+Relation DB data is in rows and columns, and data stored here like this
+        we use keys foreign keys for mapping one to one
+
+table 1 Names
+table 2 details of employee
+for this mapping we do use foreign keys
+ex: oracle db, redhat, PostgreSQL, MS SQL server
+
+2. No SQL DB    : mostly ised in big data base, 
+ex: mongodb, cassandra
+
+3. New SQL:
+    higly efficient, its combination of above both
+    kind of poms
+ex: ArangoDB. mariadb
+
+DB is sql languange
+
+DB knows sql languange
+python knows OOPs languange
+how they do communicate each other
+we need APIS to talk to each other , we called in above is connector.
+py connector - understands python and sql
+
+Step 1: Nee to install DB installed ex: PostgreSQL
+step 2: need python
+step 3: need connector, use the GUI form of connector
+
+how do we find connector:
+
+Django cant share code, it must be self code
